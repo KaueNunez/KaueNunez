@@ -7,7 +7,7 @@ Sou um desenvolvedor Back-end iniciante, que gosta bastante de trabalhar com <st
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueNunez&layout=donut&show_icons=true&theme=dracula">
 </div>
 
-## Tecnologias que gosto de utilizar / já estudei
+## Conhecimento
 
 <div style="display: inline_block">
 <img aling="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
