@@ -29,5 +29,5 @@ Sou um desenvolvedor Back-end iniciante, que gosta bastante de trabalhar com <st
 <a href="https://github.com/KaueNunez" style="color:white;"><img aling="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaueNunez" width="87px" height="28px"></a> 
 &emsp;<a href="https://www.linkedin.com/in/kau%C3%AA-nunes-960b2b268/" style="color:white;"><img aling="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="87px" height="28px"> </a>
 &emsp;<a href="https://www.instagram.com/eukauenz/" style="color:white;"><img aling="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="87px" height="28px"> </a>
-&emsp;<a href="kauenunes1307@gmai.com"><img aling="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <span style="position: absolute;margin-top: 3px;"></a>
+&emsp;<a href="kauenunes1307@gmail.com"><img aling="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <span style="position: absolute;margin-top: 3px;"></a>
 
