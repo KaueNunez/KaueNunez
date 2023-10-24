@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kauê Nunes 🧑🏻‍💻
 
-Sou um desenvolvedor Back-end iniciante, que gosta bastante de trabalhar com <strong>PHP</strong>, <strong>JS</strong> e <strong>Banco De Dados</strong>. Já fiz alguns projetos como: <strong>Carrinho de compras</strong>, <strong>Sistema de Avaliação com banco de dados</strong>, <strong>Sistema de login e register com banco de dados</strong> e outros projetos. Gostaria de ingressar na faculdade de <strong>Análise e Desenvolvimento de Sistemas</strong>.
+Sou um Desenvolvedor Web iniciante, que gosta bastante de trabalhar com <strong>PHP</strong>, <strong>JS</strong> e <strong>Banco De Dados</strong>. Já fiz alguns projetos como: <strong>Carrinho de compras</strong>, <strong>Sistema de Avaliação com banco de dados</strong>, <strong>Sistema de login e register com banco de dados</strong> e outros projetos. Gostaria de ingressar na faculdade de <strong>Análise e Desenvolvimento de Sistemas</strong>.
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueNunez&show_icons=true&theme=dracula">&emsp;
