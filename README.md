@@ -4,7 +4,7 @@
 
 <p style='text-align:justify;font-size:30px;'>
 
-Sou um Desenvolvedor Web iniciante, que gosta bastante de trabalhar com <strong>PHP</strong>, <strong>JS</strong> e <strong>Banco De Dados</strong>. Já fiz alguns projetos como: <strong>Carrinho de compras</strong>, <strong>Sistema de Avaliação com banco de dados</strong>, <strong>Sistema de login e register com banco de dados</strong> e outros projetos. Gostaria de ingressar na faculdade de <strong>Análise e Desenvolvimento de Sistemas</strong>.
+Sou um Desenvolvedor Full Stack Iniciante, que gosta bastante de trabalhar com <strong>PHP</strong>, <strong>JS</strong> e <strong>Banco De Dados</strong>. Já fiz alguns projetos como: <strong>Carrinho de compras</strong>, <strong>Sistema de Avaliação com banco de dados</strong>, <strong>Sistema de login e register com banco de dados</strong> e outros projetos. Gostaria de ingressar na faculdade de <strong>Análise e Desenvolvimento de Sistemas</strong>.
 
 </p>
 
