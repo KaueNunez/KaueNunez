@@ -43,7 +43,6 @@ Além disso, tenho experiência com controle de versão usando o Git e estou exp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='50px' style='padding-left:30px;'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width='70px'style='padding-left:30px;' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width='50px' style='padding-left:30px;'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width='50px' style='padding-left:30px;'/>
 </div>
 
 <div id='apresentacao3' style=' width:100%;
