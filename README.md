@@ -1,5 +1,5 @@
 <hr>
-<h1 style="text-align:center;">KaueNunez - 👨🏻‍💻 + ☕ = < / ></h1>
+<div align="center"><h1 style="text-align:center;">KaueNunez - 👨🏻‍💻 + ☕ = < / ></h1></div>
 
 ## Sobre Mim
 <p style="text-align:justify;">
