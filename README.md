@@ -57,3 +57,5 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaueNunez&layout=compact&theme=transparent" height="100%">&emsp;
 <hr>
 <div align="center"><h1 style="text-align:center;">KaueNunez - 👨🏻‍💻 + ☕ = < / ></h1></div>
+
+![Snake animation](https://github.com/KaueNunez/KaueNunez/blob/output/github-contribution-grid-snake.svg)
