@@ -56,4 +56,4 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaueNunez&layout=compact&theme=transparent" height="100%">&emsp;
 <hr>
-<h1 style="text-align:center;">KaueNunez - 👨🏻‍💻 + ☕ = < / ></h1>
+<div align="center"><h1 style="text-align:center;">KaueNunez - 👨🏻‍💻 + ☕ = < / ></h1></div>
