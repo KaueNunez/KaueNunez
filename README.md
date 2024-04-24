@@ -54,7 +54,6 @@
 
 ## KaueNunez
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaueNunez&layout=compact&theme=transparent" height="100%">
-<img src = "https://github-readme-stats.vercel.app/api?username=KaueNunez&show_icons=true&theme=transparent">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaueNunez&layout=compact&theme=transparent" height="100%">&emsp;<img src = "https://github-readme-stats.vercel.app/api?username=KaueNunez&show_icons=true&theme=transparent">
 <hr>
 <h1 style="text-align:center;">KaueNunez - 👨🏻‍💻 + ☕ = < / ></h1>
