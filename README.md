@@ -52,9 +52,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60px"/>&emsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="60px"/>
     </div>
-
-## KaueNunez
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=KaueNunez&layout=compact&theme=transparent" height="100%">&emsp;
 <hr>
 <div align="center"><h1 style="text-align:center;">KaueNunez - 👨🏻‍💻 + ☕ = < / ></h1></div>
