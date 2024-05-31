@@ -6,10 +6,10 @@
     Olá! 👋 Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras. Com experiência em desenvolvimento web e mobile, estou sempre buscando aprender e aplicar as melhores práticas de programação. Meu foco é construir aplicações robustas, eficientes e escaláveis, utilizando tecnologias modernas. Vamos criar juntos algo incrível! 🚀#DesenvolvimentoWeb #DesenvolvimentoMobile #FullStack
 </p>
 <div align="center">
-<a href="https://instagram.com/eukauenz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:kaue.nunez.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/kauê-nunes-web-mobile/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://kauenunez.github.io/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a title="Instagram" href="https://instagram.com/eukauenz/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a title="E-mail" href = "mailto:kaue.nunez.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a title="Linkedin" href="https://www.linkedin.com/in/kauê-nunes-web-mobile/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a title="GitHub" href="https://kauenunez.github.io/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
 
 ## Skills
